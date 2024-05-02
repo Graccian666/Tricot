@@ -1,0 +1,82 @@
+header{
+    background-color: #fffcf8;
+    border-bottom: solid 3px #d9b3b5;
+}
+
+section{
+    background-color: #fffcf8;
+    padding-bottom: 32px;
+}
+
+#sobre{
+    padding-top: 120px;
+}
+
+#profissionais{
+    padding-top: 120px;
+}
+
+
+.section-title{
+    padding-top: 14px;
+    font-family: Lobster, cursive;
+    color: #f1ba61;
+}
+
+.section-title:hover{
+    color: #f1ba61;
+}
+
+.nav-item a{
+    margin-right: 6px;
+    color: #fffcf8;
+    background-color: #f1ba61;
+    font-weight: bold;
+}
+
+header .nav .nav-link.active{
+    background-color: #d9b3b5;
+}
+
+.nav-item a:hover{
+    color: #fffcf8;
+    background-color: #ecad46;
+}
+
+.row-profissionais{
+    padding-bottom: 20px;
+}
+
+.container-profs{
+    justify-content: space-between;
+}
+
+
+.title-deco{
+    font-family: Lobster, cursive;
+    color: #747474;
+}
+
+p{
+    color: #747474;
+}
+
+p span{
+    font-weight: bold;
+    color: #535353;
+}
+
+.social-links li{
+    list-style: none;
+    display: inline;
+    margin-right: 6px;
+}  
+
+.social-links li a{
+    text-decoration: none;
+    color: #535353;
+}
+
+#contato{
+    border-top: solid 3px #d9b3b5;
+}
